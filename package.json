@@ -1,5 +1,5 @@
 {
-  "homepage":"http;//Syd25.github.io/Cat-Clicker-React-App/",
+  "homepage": "http://Syd25.github.io/catclickreact/",
   "name": "cat-clicker-react",
   "version": "0.1.0",
   "private": true,
@@ -9,8 +9,8 @@
     "react-scripts": "2.0.5"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
